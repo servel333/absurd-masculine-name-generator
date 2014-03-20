@@ -9,7 +9,7 @@ Prints names that are masculine and absurd.
 * Run the script
 
 ```
-ruby ruby absurd-masculine-name-generator.rb
+ruby absurd-masculine-name-generator.rb
 ```
 
 ## Some examples
