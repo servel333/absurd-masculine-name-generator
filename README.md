@@ -8,7 +8,9 @@ Prints names that are masculine and absurd.
 * Install Ruby
 * Run the script
 
-    ruby ruby absurd-masculine-name-generator.rb
+```
+ruby ruby absurd-masculine-name-generator.rb
+```
 
 ## Some examples
 
